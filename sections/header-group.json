@@ -41,10 +41,17 @@
         "padding_top": 8,
         "padding_bottom": 8
       }
+    },
+    "169813211394af4c99": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "169813211394af4c99"
   ]
 }
