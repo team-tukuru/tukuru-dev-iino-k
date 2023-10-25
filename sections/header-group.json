@@ -47,11 +47,30 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "1698219877ee7a8bef": {
+      "type": "apps",
+      "blocks": {
+        "438060cd-f395-44c5-a1b1-09f8ecffcdf1": {
+          "type": "shopify:\/\/apps\/referral-app\/blocks\/star_rating\/41c590dc-041a-4e59-b320-43e6701f8943",
+          "settings": {
+            "product": "",
+            "colour": "#2c5fa4"
+          }
+        }
+      },
+      "block_order": [
+        "438060cd-f395-44c5-a1b1-09f8ecffcdf1"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "announcement-bar",
     "header",
-    "169813211394af4c99"
+    "169813211394af4c99",
+    "1698219877ee7a8bef"
   ]
 }
