@@ -144,17 +144,10 @@
 
     ],
     "blocks": {
-      "15871026291228209630": {
-        "type": "shopify:\/\/apps\/sc-conjured-referrals\/blocks\/embed-floating-button\/259a1e76-fe9f-44e8-b3bd-171319d52fc6",
+      "16278478101612877664": {
+        "type": "shopify:\/\/apps\/pagefly-page-builder\/blocks\/app-embed\/83e179f7-59a0-4589-8c66-c0dddf959200",
         "disabled": false,
         "settings": {
-          "button_text": "Get $XX",
-          "button_background": "#000",
-          "button_color": "#fff",
-          "referral_display": "popup",
-          "campaign_id": "8842",
-          "referral_link": "",
-          "custom_css": ""
         }
       }
     }
