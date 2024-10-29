@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "logo_width": 50,
@@ -106,8 +115,8 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
-    "brand_headline": "© 2023 \/ Shopify, Inc.",
-    "brand_description": "<p>©2023\/ Shopify, Inc.<\/p>",
+    "brand_headline": "© 2023 / Shopify, Inc.",
+    "brand_description": "<p>©2023/ Shopify, Inc.</p>",
     "brand_image_width": 100,
     "social_facebook_link": "",
     "social_instagram_link": "",
@@ -145,7 +154,13 @@
     ],
     "blocks": {
       "16278478101612877664": {
-        "type": "shopify:\/\/apps\/pagefly-page-builder\/blocks\/app-embed\/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "type": "shopify://apps/pagefly-page-builder/blocks/app-embed/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "5017882195547572635": {
+        "type": "shopify://apps/sc-easy-redirects/blocks/app/be3f8dbd-5d43-46b4-ba43-2d65046054c2",
         "disabled": false,
         "settings": {
         }
@@ -260,8 +275,8 @@
       "sale_badge_color_scheme": "accent-2",
       "sold_out_badge_color_scheme": "inverse",
       "accent_icons": "text",
-      "brand_headline": "© 2023 \/ Shopify, Inc.",
-      "brand_description": "<p>©2023\/ Shopify, Inc.<\/p>",
+      "brand_headline": "© 2023 / Shopify, Inc.",
+      "brand_description": "<p>©2023/ Shopify, Inc.</p>",
       "brand_image_width": 100,
       "social_facebook_link": "",
       "social_instagram_link": "",
